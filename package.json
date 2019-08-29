@@ -1,9 +1,17 @@
 {
   "name": "isbinary-num",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "checks if string is binary number",
   "main": "main.js",
   "scripts": {},
+   "repository": {
+   "type": "git",
+   "url": "https://github.com/ChickenNaggetGitHub/isBinary-num.git"
+  },
+   "bugs": {
+   "url": "https://github.com/ChickenNaggetGitHub/isBinary-num/issues"
+  },
+  "homepage": "https://github.com/ChickenNaggetGitHub/isBinary-num/README.md",
   "keywords": [
     "isbin",
     "isbinary",
