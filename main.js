@@ -1,0 +1,1 @@
+"use strict";module.exports={isBinary:function(text){if(/^[01][01\s]*[01]$/.test(text)){return true;}else{return false;}}}

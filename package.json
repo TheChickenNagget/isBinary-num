@@ -1,0 +1,15 @@
+{
+  "name": "isbinary-num",
+  "version": "0.0.3",
+  "description": "checks if string is binary number",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "isbin",
+    "isbinary",
+    "binary",
+    "is"
+  ],
+  "author": "chickennagget",
+  "license": "ISC"
+}
