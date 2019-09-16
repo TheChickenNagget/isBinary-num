@@ -13,6 +13,6 @@ install:
   - npm install --only-dev
 
 script:
-  - node main.js
-  - node testing.js
- 
+  - node src/main.js
+  - node src(testing.js
+  - isbin 00001010101001001011010110101
