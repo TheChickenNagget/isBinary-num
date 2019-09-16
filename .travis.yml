@@ -14,5 +14,5 @@ install:
 
 script:
   - node src/main.js
-  - node src(testing.js
+  - node src/testing.js
   - isbin 00001010101001001011010110101
