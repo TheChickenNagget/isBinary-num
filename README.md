@@ -1,6 +1,8 @@
 # isbinary-num 
 ### Simple module to detect if number is binary number
+[![Build Status](https://travis-ci.org/TheChickenNagget/isBinary-num.svg?branch=master)](https://travis-ci.org/TheChickenNagget/isBinary-num)
 [![install size](https://packagephobia.now.sh/badge?p=isbinary-num)](https://packagephobia.now.sh/result?p=isbinary-num)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7ba82072d0f43b1b71e3ebb4d0d1b26)](https://www.codacy.com/manual/chickennagget14/isBinary-num?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TheChickenNagget/isBinary-num&amp;utm_campaign=Badge_Grade)
 #
 ------
 ## Usage
