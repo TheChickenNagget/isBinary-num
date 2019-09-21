@@ -1,4 +1,5 @@
 "use strict";
+
 module.exports = {
 /**
 * Detect if number / string is binary number
@@ -9,5 +10,11 @@ module.exports = {
 * // outputs "true"
 * @returns {boolean} boolean
 */
-isBinary(t) { if (/^[01][01\s]*[01]$/.test(t)) { return true; } return false; },
+isBinary(t) { 
+if (/^[01][01\s]*[01]$/.test(t)) {
+return true; 
+ }else{
+return false; 
+  }
+ },
 };
