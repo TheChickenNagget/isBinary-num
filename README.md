@@ -6,13 +6,13 @@
 #
 ------
 ## Usage
-You can simply use .isBinary("") Function, here's some example
+example usage:
 ```js
 const test = require("isbinary-num")
-test.isBinary("00000010101011001011110f0010110100");
+test("00000010101011001011110f0010110100");
 // outputs: true
 
-test.isBinary("2155665639569985463546587444444445");
+test("2155665639569985463546587444444445");
 //outputs: false
 ```
 

@@ -1,6 +1,5 @@
 "use strict";
-
-module.exports = {
+module.exports = function(t){
 /**
 * Detect if number / string is binary number
 * @param {string} text
@@ -10,11 +9,9 @@ module.exports = {
 * // outputs "true"
 * @returns {boolean} boolean
 */
-isBinary(t) { 
 if (/^[01][01\s]*[01]$/.test(t)) {
 return true; 
  }else{
 return false; 
   }
- },
-};
+ }

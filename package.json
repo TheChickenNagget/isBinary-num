@@ -1,6 +1,6 @@
 {
  "name": "isbinary-num",
- "version": "1.1.6",
+ "version": "2.1.6",
  "description": "Node module & CLI to check if string is binary number",
  "main": "src/main.js",
  "scripts": {},
