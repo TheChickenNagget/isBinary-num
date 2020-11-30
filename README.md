@@ -1,12 +1,8 @@
 # isbinary-num 
-### Simple module to detect if number is binary number
-[![Build Status](https://travis-ci.org/TheChickenNagget/isBinary-num.svg?branch=master)](https://travis-ci.org/TheChickenNagget/isBinary-num)
+### Simple module to test if number is binary number
 [![install size](https://packagephobia.now.sh/badge?p=isbinary-num)](https://packagephobia.now.sh/result?p=isbinary-num)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7ba82072d0f43b1b71e3ebb4d0d1b26)](https://www.codacy.com/manual/chickennagget14/isBinary-num?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TheChickenNagget/isBinary-num&amp;utm_campaign=Badge_Grade)
-#
-------
+
 ## Usage
-example usage:
 ```js
 const test = require("isbinary-num")
 test("00000010101011001011110f0010110100");
@@ -17,8 +13,7 @@ test("2155665639569985463546587444444445");
 ```
 
 ## Terminal Usage
-This module can be used in terminal if you wan't it for some reason
-**Prefix is "isbin"**, for example:
+**Prefix is `isbin`**, Example:
 ```shell
 $ isbin 0100100001101001
 $ true
