@@ -1,18 +1,14 @@
 {
   "name": "isbinary-num",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "Node module & CLI to check if string is binary number",
   "main": "src/main.js",
-  "scripts": {
-    "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChickenNaggetGitHub/isBinary-num.git"
+    "url": "https://github.com/TheChickenNagget/isBinary-num.git"
   },
   "bugs": {
-    "url": "https://github.com/ChickenNaggetGitHub/isBinary-num/issues"
+    "url": "https://github.com/TheChickenNagget/isBinary-num/issues"
   },
   "bin": {
     "isbin": "./src/cli.js"
@@ -25,12 +21,8 @@
     "is",
     "cli"
   ],
-  "author": "chickennagget",
+  "author": "TheChickenNagget",
   "license": "ISC",
-  "dependencies": {
-    "v8-compile-cache": "^2.1.0",
-    "snyk": "^1.316.1"
-  },
   "devDependencies": {
     "eslint": "^6.4.0",
     "eslint-plugin-react": "^7.14.3",
@@ -38,6 +30,5 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3"
-  },
-  "snyk": true
+  }
 }
