@@ -9,6 +9,7 @@ module.exports = function(t){
 * // outputs "true"
 * @returns {boolean} boolean
 */
+ 
 if (/^[01][01\s]*[01]$/.test(t)) {
 return true; 
  }else{
